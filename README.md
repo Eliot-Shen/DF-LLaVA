@@ -3,12 +3,13 @@
 ### [Paper](https://arxiv.org/abs/2509.14957)
 
 ## News
-- **2025.9.23** We have released the code and classifier weights.
+- **2025.9.23** 🤗 We have released the code and classifier weights.
 - **2025.9.18** 🔥 We have released **DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection**. Check out the [paper](https://arxiv.org/abs/2509.14957). We present DF-LLaVA model.
 
 ## Evaluate image authenticity and obtain comprehensive artifact explanations
 
-| ![DF-LLaVA](./images/intro.jpg) |
+<!-- | ![DF-LLaVA](./images/intro.jpg) | -->
+| <img src="./images/intro.jpg" alt="DF-LLaVA" width="400"/> |
 |:--:|
 | DF-LLaVA provides comprehensive artifact-level interpretability with detection accuracy outperforming expert models. |
 
@@ -107,4 +108,6 @@ Please download the test data used in the paper from [FakeClue](https://huggingf
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2509.14957}, 
 }
+```
+
 ```
