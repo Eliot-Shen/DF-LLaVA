@@ -21,9 +21,8 @@
 
 - [Install](#install)
 - [Models](#models)
-- [Data](#data)
 - [Training](#Training)
-
+- [Evaluation](#Evaluation)
 
 
 ### Install
@@ -111,3 +110,4 @@ Please download the test data used in the paper from [FakeClue](https://huggingf
 ```
 
 ```
+
