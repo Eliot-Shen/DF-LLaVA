@@ -98,16 +98,14 @@ Please download the test data used in the paper from [FakeClue](https://huggingf
 ## BibTeX
 
 ```
-@misc{Shen_2025_DFLLaVA,
+@article{Shen2025DFLLaVA,
       title={DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection}, 
       author={Zhuokang Shen and Kaisen Zhang and Bohan Jia and Yuan Fang and Zhou Yu and Shaohui Lin},
-      year={2025},
-      eprint={2509.14957},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.14957}, 
+      journal={arXiv preprint arXiv:2509.14957},
+      year={2025}
 }
 ```
 
 ```
+
 
