@@ -13,9 +13,9 @@
 |:--:|
 | DF-LLaVA provides comprehensive artifact-level interpretability with detection accuracy outperforming expert models. |
 
-| ![DF-LLaVA](./images/teaser.jpg) |
+| ![DF-LLaVA](./images/infer.jpg) |
 |:--:|
-| DF-LLaVA leverages its frozen vision encoder via a binary classifier for initial authenticity estimation, injects its probabilistic output into prompts to enhance detection accuracy, and finally explain artifacts from various perspectives. |
+| Overview of DF-LLaVA during inference. DF-LLaVA leverages its frozen vision encoder via a binary classifier for initial authenticity estimation. The probabilistic output is used as reference in prompts, based on which DF-LLaVA makes its prediction. The prediction then undergoes a conflict check and a possible self-reflection process from model to ensure its precision and robustness. Finally, artifacts are explained from various perspectives. |
 
 ## Contents
 
@@ -105,6 +105,7 @@ Please download the test data used in the paper from [FakeClue](https://huggingf
       year={2025}
 }
 ```
+
 
 
 
