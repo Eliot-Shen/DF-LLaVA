@@ -1,4 +1,4 @@
-## DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection
+## DF-LLaVA: Unlocking MLLMs for Synthetic Image Detection via Knowledge Injection and Conflict-Driven Self-Reflection
 
 ### [Paper](https://arxiv.org/abs/2509.14957)
 
@@ -99,12 +99,13 @@ Please download the test data used in the paper from [FakeClue](https://huggingf
 
 ```
 @article{Shen2025DFLLaVA,
-      title={DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection}, 
-      author={Zhuokang Shen and Kaisen Zhang and Bohan Jia and Yuan Fang and Zhou Yu and Shaohui Lin},
+      title={DF-LLaVA: Unlocking MLLMs for Synthetic Image Detection via Knowledge Injection and Conflict-Driven Self-Reflection}, 
+      author={Zhuokang Shen and Kaisen Zhang and Bohan Jia and Heming Jia and Yuan Fang and Zhou Yu and Shaohui Lin},
       journal={arXiv preprint arXiv:2509.14957},
       year={2025}
 }
 ```
+
 
 
 
